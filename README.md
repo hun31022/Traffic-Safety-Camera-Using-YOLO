@@ -29,6 +29,10 @@
   *<Camera <-> Main Server 통신>*
   ![client-mainserver](https://user-images.githubusercontent.com/58102072/69705290-98588400-1138-11ea-883c-f9182ba87a33.JPG)
 - 모든 데이터 통신을 관리하는 메인 서버
+  
+  *<Main Server <-> Database 통신>*
+  ![mainserver-database](https://user-images.githubusercontent.com/58102072/69716499-774e5e00-114d-11ea-9037-4eb0fb4b0abb.JPG)
+  
 - 데이터베이스: 카메라 ID, 카메라의 위치, 관련 기관 번호가 기본적으로 저장되어 있다.
 - 알람 서버(라즈베리 파이)
 YOLO 알고리즘과 서버 모두 C언어를 사용하여 구현하였다.
