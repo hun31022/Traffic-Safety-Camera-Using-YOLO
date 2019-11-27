@@ -38,11 +38,13 @@
   *<Main Server <-> 관련 기관 통신>*
   ![mainserver-Client](https://user-images.githubusercontent.com/58102072/69716715-f04db580-114d-11ea-8328-f56379547035.JPG)
   <br/>
+  <br/>
 - 데이터베이스: 카메라 ID, 카메라의 위치, 관련 기관 번호가 기본적으로 저장되어 있다.
 
   *<Database table 정보>*<br/>
   ![Database table](https://user-images.githubusercontent.com/58102072/69716817-2c811600-114e-11ea-8faa-e51ac7423020.jpg)
-  
+  <br/>
+  <br/>
 - 알람 서버(라즈베리 파이)
 
   <Alarm Client <-> Alarm Server>
