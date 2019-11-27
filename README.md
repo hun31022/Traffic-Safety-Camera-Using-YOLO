@@ -32,15 +32,17 @@
   
   *<Main Server <-> Database 통신>*
   ![mainserver-database](https://user-images.githubusercontent.com/58102072/69716499-774e5e00-114d-11ea-9037-4eb0fb4b0abb.JPG)
-  
+  <br>
   *<Main Server <-> 관련 기관 통신>*
   ![mainserver-Client](https://user-images.githubusercontent.com/58102072/69716715-f04db580-114d-11ea-8328-f56379547035.JPG)
-  
+  <br>
 - 데이터베이스: 카메라 ID, 카메라의 위치, 관련 기관 번호가 기본적으로 저장되어 있다.
+
   *<Database table 정보>*
   ![Database table](https://user-images.githubusercontent.com/58102072/69716817-2c811600-114e-11ea-8faa-e51ac7423020.jpg)
   
 - 알람 서버(라즈베리 파이)
+
   <Alarm Client <-> Alarm Server>
   ![Alarm server](https://user-images.githubusercontent.com/58102072/69716961-7ff36400-114e-11ea-89a7-fcca0169a853.JPG)
 
