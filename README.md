@@ -51,5 +51,3 @@
   ![Alarm server](https://user-images.githubusercontent.com/58102072/69716961-7ff36400-114e-11ea-89a7-fcca0169a853.JPG)
 
 YOLO 알고리즘과 서버 모두 C언어를 사용하여 구현하였다.
-
-
